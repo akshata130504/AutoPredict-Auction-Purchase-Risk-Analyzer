@@ -87,9 +87,11 @@ Here are some key insights from the dataset:
 
 ## ✅ Results
 
-- Achieved **89% accuracy** in predicting bad buys (replace X with actual number)
-- Identified key features influencing "kick" probability
-- Improved dealership decision-making with predictive analytics
+✅ Achieved 89% accuracy using the Random Forest model after hyperparameter tuning.
+
+⚙️ Effectively handled imbalanced data and performed comprehensive preprocessing.
+
+🔍 Identified key risk factors influencing bad purchases, enhancing decision-making for dealerships.
 
 ---
 
@@ -98,9 +100,3 @@ Here are some key insights from the dataset:
 - Add deep learning model with LSTM or DNN  
 - Deploy as a web app using Streamlit or Flask  
 - Integrate real-time auction data via API  
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
