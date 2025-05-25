@@ -1,7 +1,7 @@
 # AutoPredict-Auction-Purchase-Risk-Analyzer
 
 
-# 🚗 AutoPredict: Smart Auction Risk Analyzer
+# 🚗 Smart Auction Risk Analyzer
 
 A machine learning project that predicts whether a car purchased at auction is a **good buy** or a **potential risk (kick)** — helping dealerships make smarter, data-driven decisions.
 
@@ -61,7 +61,7 @@ Here are some key insights from the dataset:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akshata130504/autopredict-auction-risk.git
+   git clone https://github.com/akshata130504/AutoPredict-Auction-Purchase-Risk-Analyzer.git
    ```
 2. Install dependencies:
    ```bash
